@@ -1,3 +1,5 @@
 /node_modules
 deployment.json
 .env
+.dockerignore
+.vscode/
