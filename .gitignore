@@ -3,3 +3,5 @@ deployment.json
 .env
 .dockerignore
 .vscode/
+frontend/node_modules
+backend/node_modules
